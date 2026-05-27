@@ -3,7 +3,8 @@
 It is 60% wireless custum mechanical keyboard with a 0.96 Oled display with a slider[linear potential meter] for music control and some DJ vibes, yes a slider not a rotary encoder because for some reason i just don't like rotary encoders. 
 ## Components Used
 ### kerboard
- 1.I have used raspberry pi pico w over others because beacause of high number of gpio pins and is easily programable and also is bluetooth and wifi for good contectivity 
+ 1.I have used raspberry pi pico w over others because beacause of high number of gpio pins and is easily programable and also is bluetooth and wifi for good contectivity
+ https://share.google/3e7oIY4aEnbWSwUXX
 
  2. i have used TP4050 [charging module] for charging battery
 
