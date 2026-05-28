@@ -54,3 +54,9 @@ It is 60% wireless custum mechanical keyboard with a 0.96 Oled display with a sl
 <img width="698" height="58" alt="image" src="https://github.com/user-attachments/assets/5b715b23-f193-4054-ba78-b8f92f46a1ad" />
 <img width="703" height="40" alt="image" src="https://github.com/user-attachments/assets/36ee1c26-f36a-4477-b8f7-8e7ae8413bea" />
 
+
+
+# BOM 
+
+https://docs.google.com/spreadsheets/d/1NN-7fyjT-_NMtKUpMZtBps8UBcZRbg7seoi4lXChdCc/edit?usp=sharing
+<img width="1364" height="380" alt="image" src="https://github.com/user-attachments/assets/ecbca997-9428-45c8-a26e-da2b1bcfcc91" />
