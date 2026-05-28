@@ -71,6 +71,7 @@ It is compact wireless custum mechanical keyboard based on rasberry pi pico w wi
 ### front
 
 <img width="822" height="293" alt="Screenshot 2026-05-28 190126" src="https://github.com/user-attachments/assets/8e4fd60a-9dfa-4532-af41-0882207ea927" />
+
 ### back Model
 
 <img width="922" height="325" alt="Screenshot 2026-05-28 190143" src="https://github.com/user-attachments/assets/cb98541c-94aa-45bd-9c01-62cb48e53bba" />
@@ -83,9 +84,21 @@ It is compact wireless custum mechanical keyboard based on rasberry pi pico w wi
 <img width="698" height="58" alt="image" src="https://github.com/user-attachments/assets/5b715b23-f193-4054-ba78-b8f92f46a1ad" />
 <img width="703" height="40" alt="image" src="https://github.com/user-attachments/assets/36ee1c26-f36a-4477-b8f7-8e7ae8413bea" />
 
+## Case
 
+### Top case
+
+<img width="884" height="469" alt="Case_top" src="https://github.com/user-attachments/assets/e6e3cc10-ac79-43db-866e-d49388c9cb42" />
+
+### Bottom case
+
+<img width="772" height="428" alt="Case_bottom" src="https://github.com/user-attachments/assets/adab5107-6f58-4f37-95a0-44b557ea4fab" />
+
+### Assembled case
+
+<img width="561" height="324" alt="Assembly" src="https://github.com/user-attachments/assets/b26abd1e-5f79-477a-8d12-5c8d4bca76ba" />
 
 # BOM 
 
 https://docs.google.com/spreadsheets/d/1NN-7fyjT-_NMtKUpMZtBps8UBcZRbg7seoi4lXChdCc/edit?usp=sharing
-<img width="1364" height="380" alt="image" src="https://github.com/user-attachments/assets/ecbca997-9428-45c8-a26e-da2b1bcfcc91" />
+<img width="1366" height="374" alt="image" src="https://github.com/user-attachments/assets/4b9ccf21-1c37-4efc-a63e-01272a3e3774" />
