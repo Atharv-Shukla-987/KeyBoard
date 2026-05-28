@@ -14493,7 +14493,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_CK_JS202011CQN_DPDT_Straight"
+		(property "Footprint" "sw slide:SW_Slide_1P2T_CK_OS102011MS2Q"
 			(at 220.98 38.1 0)
 			(effects
 				(font
