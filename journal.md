@@ -41,7 +41,7 @@ I do that because I have used wrong footprint for led so when I changed it to co
 <img width="1056" height="551" alt="keyboard_pcb_layout" src="https://github.com/user-attachments/assets/50ce8e06-83d1-4bc2-9f6f-a106c717db6e" />
 
 
-# Making the Bom and organ
+# Making the Bom and organising
 ## TIME : 5.5 hr
 
 
