@@ -1898,6 +1898,94 @@
 		)
 		(uuid "f60ecb68-be99-4fb0-bfa0-9151c0e6e48f")
 	)
+	(global_label "D-"
+		(shape input)
+		(at 58.42 33.02 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1596844d-222c-4807-a9e1-5029aeb76904")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.2476 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "D+"
+		(shape input)
+		(at 58.42 30.48 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5b6d114f-7064-4a04-9657-36900a6819a1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.2476 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "D-"
+		(shape input)
+		(at 96.52 44.45 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "746639fd-c6ee-41c5-a399-ebdad3bfeea0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.3476 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "D+"
+		(shape input)
+		(at 96.52 46.99 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "caf7a14e-226f-4061-ade9-2501eda789b7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.3476 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(symbol
 		(lib_id "RF_Module:ESP32-S3-MINI-1")
 		(at 81.28 62.23 0)
