@@ -4,4 +4,5 @@
   (lib (name "ib5")(type "KiCad")(uri "C:/Users/ganga/Desktop/GitHub/KeyBoard/kicad_care_package/footprints.pretty")(options "")(descr ""))
   (lib (name "led")(type "KiCad")(uri "C:/Users/ganga/Desktop/GitHub/KeyBoard/led footprit")(options "")(descr ""))
   (lib (name "sw slide")(type "KiCad")(uri "C:/Users/ganga/Desktop/GitHub/KeyBoard/slide switch")(options "")(descr ""))
+  (lib (name "footprint")(type "KiCad")(uri "C:/Users/ganga/Desktop/GitHub/KeyBoard/Footprint")(options "")(descr ""))
 )

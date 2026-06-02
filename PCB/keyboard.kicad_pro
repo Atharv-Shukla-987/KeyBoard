@@ -490,7 +490,7 @@
       "plot": "C:/Users/ganga/Desktop/GitHub/RollBoard/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../RollBoard.step",
+      "step": "../cad/keyboard_3dpcb.step",
       "svg": "",
       "vrml": ""
     },
