@@ -14,6 +14,7 @@ I didn't thought it would took me soo long just to find right footprint. The mos
 
 <img width="699" height="546" alt="image" src="https://github.com/user-attachments/assets/fb079e85-2a03-4cd0-8532-0d24ea669ebb" />
 
+**Total time spent: 2 hours**
 
 # PCB desiging 
 
