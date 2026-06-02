@@ -8,14 +8,14 @@ It was the first step and the most important because I need to think what I want
 
   **Total time spent: 5 hours**
 
-# Finding footprint TIME : 2hr
+# Finding footprint 
 
 I didn't thought it would took me soo long just to find right footprint. The most difficult footprint to find was of my linear slider because almost everyone uses rotary encoders . But I really want to use it . I was able to find only one footprint for it , I am still not satisfied by it but I can't do anything . I tried everywhere. I request to all of you who are reading this , if you find any such footprint please inform me.Other than i have used many wrong footprint which were later changed by me. it was the step where I size my switchs.
 
 <img width="699" height="546" alt="image" src="https://github.com/user-attachments/assets/fb079e85-2a03-4cd0-8532-0d24ea669ebb" />
 
 
-# PCB desiging Time : 7hr
+# PCB desiging 
 
 Now , it was the time to create actual pcb . My aim was to make it as compact as possible, so it wont take too much space on my desk and is easy to carry. I placed rasberry pi pico on the right side beneath the pcb so I can fully utilize the area by placing linear slider on top. I did he same with oled display and charging port. I placed the display on top of pcb and charging port beneath the pcb . It was difficult to trace on the right side as there is the brain of my keyboard , pico w . As you can see in the image . There was some part in this area on  which I cannot trace , it is because there was no trace area . If I trace there than it can act as faraday cage blocking the communication signal of pico w . This make it extremely difficult as trace on right bottom cant go directly to right top , they must have to make a long route.
 
