@@ -46,7 +46,8 @@ It is compact wireless custum mechanical keyboard based on rasberry pi pico w wi
 
 ## PCB layout
 
-<img width="506" height="541" alt="image" src="https://github.com/user-attachments/assets/848fa37b-da84-429c-8860-2a590bcb1b1b" />
+<img width="502" height="538" alt="reciever_pcb" src="https://github.com/user-attachments/assets/cb2673c5-9dc8-4bfb-81f8-1e4ac6c04e3c" />
+
 
 ## 3d
 
