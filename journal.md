@@ -44,6 +44,7 @@ I do that because I have used wrong footprint for led so when I changed it to co
 # Making the Bom and organising github repository
 ## TIME : 5.5 hr
 
+making bom was one of easiest yet tiring part of this project , which was mainly due to my part selection , as i tried to reduce the overall cost of the project but whenever i found a cheaper option then its shipping charges were more than its actual value . and the most time consuming part was finding slider in budget as it the slider is not used much making it harder to find in exect size ....    
 
 <img width="1366" height="374" alt="bom" src="https://github.com/user-attachments/assets/45fbd3b5-f124-44e1-ac3a-d79e4870055d" />
 
